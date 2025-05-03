@@ -8,6 +8,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading;
 using Dalamud.Interface.ImGuiFileDialog;
+using Cactbot;
 
 namespace RainbowMage.OverlayPlugin.EventSources;
 
